@@ -4,8 +4,6 @@
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red)
 ![Status](https://img.shields.io/badge/Status-Solved-brightgreen)
 ![Language](https://img.shields.io/badge/Language-Java-blue)
-![Topics](https://img.shields.io/badge/Topics-Greedy%2C%20Prefix%20Sum%2C%20Interval%20Optimization-lightgrey)
-
 ---
 
 ### 📘 Problem
